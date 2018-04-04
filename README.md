@@ -1,5 +1,5 @@
 # IntegrationCF
-Joomla Use Case to explain how to add Custom Fields support in our owns components
+Joomla 3.7+ Use Case to explain how to add Custom Fields support in our owns components
 
 We assume your component is well-developped with MVC and normal Joomla features (Model XML form mapping and loader, Table store, admin standard layout ...)
 
@@ -21,6 +21,9 @@ Now the administration of you component supports Custom Fields !
 
 /tables : store : params (TODO)
 
+## 4th point : Frontend Fields rendering and display
+
+... (TODO)
 
 ## Last point : Global Parameters for Integration
 Optionnal. Like the Joomla Core components you can provide a paraméter to activate or deactivate the Ciustom Fields support
